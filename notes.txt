@@ -1,0 +1,10 @@
+﻿Blueberry.Core
+=================
+	Dependencies:
+	--------------
+	dna.framework
+	Newtonsoft.json
+
+
+Blueberry.AndroidApp
+====================
